@@ -1,0 +1,17 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.checked {
+    color: orange;
+    font-size: 12px;
+  }
+  .time-icon{
+      background-color: #FEE5DF;
+      border-radius: 20px;
+      color: #ED6B4F;
+      font-size: 14px;
+  }
+  .author-name{
+    color: #ED6B4F;
+  }
